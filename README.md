@@ -1,7 +1,7 @@
 # Image Recognition of Plants with Transfer Learning and Feature Compression
 
 ## **Project Overview**  
-This project focuses on the **classification of plant species using deep learning models** while optimizing memory usage. The primary objective is to verify whether **compressed neural networks** can achieve classification accuracy comparable to standard, uncompressed architectures, while significantly reducing memory and computational requirements.  
+Master's Thesis. This project focuses on the **classification of plant species using deep learning models** while optimizing memory usage. The primary objective is to verify whether **compressed neural networks** can achieve classification accuracy comparable to standard, uncompressed architectures, while significantly reducing memory and computational requirements.  
 
 To achieve this, the project explores **transfer learning**—leveraging pretrained models to improve training efficiency—and **feature dimensionality reduction** techniques such as **Principal Component Analysis (PCA)** and **Linear Discriminant Analysis (LDA)** to compress feature representations. By employing these techniques, the aim is to develop **lightweight, self-sufficient models** suitable for deployment in environments with limited computational resources, such as **mobile applications for plant recognition**.  
 
